@@ -1,0 +1,126 @@
+.background{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height:100vh;
+    background-size: cover;
+    
+    
+}
+.title{
+    height:30vh;
+    background-color: white;
+    text-align: center;
+    padding:20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+        
+    
+}
+.heading{
+    color:#f19116;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+p{
+    font-weight: 500;
+    color:#6c6b70;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    background-color: #f19116;
+    color:white;
+    width:90px;
+    border-radius:6px ;
+    border:none;
+    padding:5px;
+}
+.bg-container{
+    background-color: black;
+    height:110vh;
+}
+.head{
+    color:#f19116;
+    padding:10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cardheading{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding:5px;
+
+}
+.carddescription{
+    color:#6c6b70;
+    font-weight: 300;
+    font-size: 18px;
+    padding:5px;
+}
+.image{
+    height:150px;
+    width:80px;
+    justify-content: center;
+    
+}
+.card{
+    padding:10px;
+    margin:24px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.btn{
+    background-color: #f19116;
+    color:white;
+    width:90px;
+    border-radius:6px ;
+    border:none;
+    padding:5px;
+    margin:25px;
+}
+.bgd{
+    height:110vh;
+    background-color: black;
+    
+}
+.pic{
+    height:40vh;
+    width:100%;
+}
+.price{
+    color:#f19116;
+    font-weight:500 ;
+    font-size: 25px;
+    padding:25px;
+
+}
+.icon{
+    height: 30px;
+    width:30px;
+    color:#f19116;
+    margin:20px;
+}
+.des{
+    color:white;
+    margin:20px;
+}
+hr{
+    color:white;
+}
+.detaildes{
+    color:#f19116;
+    font-family: 'Times New Roman', Times, serif;
+    margin:25px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.detailpara{
+    color:white;
+    
+    margin:25px;
+}
+
+.back{
+    margin:10px;
+}
+.confirm{
+    margin:10px;
+}
